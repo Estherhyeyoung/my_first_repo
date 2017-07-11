@@ -1,0 +1,23 @@
+position key H~l 
+close :q!
+save and close :wq
+같은 명령어나 단어 입력할때 첫 몇글자ex : ali+tab 누르면 자동완성 
+command+ ~ : 창 이동 
+새로운 창 열기 : N 
+현재 있는 위치 확인 : ls
+맨 아래페이지 gg
+맨 위페이지 G
+한 페이지에서 중간 : m, 마지막 : l, 위 : h
+: set number 줄 넘버링  
+esc : 초기화
+단어단위로 넘기기 w, 단어의 끝으로 넘기기 e , 뒤로가기 : b 
+지우기 x , 실행 취소 u , control+r 
+수정할때 : r - replace 
+/찾는 단어, 커서아래부터 찾기 
+? 문서의 아래에서 부터 위로 찾기 
+:set hlsearch  찾는 단어 색으로 표시 / :set nohlsearch 이전 상태
+N: 이전에 내가 찾았던 단어 n: next 찾는 단어로 이동   
+% : 함수에서 짝을 찾아줌  
+v : visual ; drag 역할 , 단어를 선택하겠다 하면 vw line선택 : shift-v 
+copy : y , paste : p 
+dd : delete, 

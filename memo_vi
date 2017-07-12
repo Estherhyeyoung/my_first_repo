@@ -20,4 +20,13 @@ N: 이전에 내가 찾았던 단어 n: next 찾는 단어로 이동
 % : 함수에서 짝을 찾아줌  
 v : visual ; drag 역할 , 단어를 선택하겠다 하면 vw line선택 : shift-v 
 copy : y , paste : p 
-dd : delete, 
+dd : delete,
+cd : change  mv 파일 이동할때  ./ 내위치 ../ 내 이전위치(파일)
+예를 들면 내위치의 0 파일을 9위치에 옮길때 
+mv ./0 ./9 
+
+
+git clone >링크넣기> git add *(파일 선택하기)
+git commit -m "파일이름"
+git push : 파일 업로드
+git status : 현재 상태 

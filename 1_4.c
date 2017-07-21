@@ -21,6 +21,6 @@ int main()
 
 // 함수로 구해진 값을 보여줄때 십진수의 숫자, celsius , fahrenheit의 순서로보여주기
 
-		printf("%d\t%d\n", celsius, ((celsius*(9/5))+32));
+		printf("%d\t%.2d\n", celsius, ((celsius*(9/5))+32));
 }
 

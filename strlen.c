@@ -6,7 +6,7 @@ int strlen(char s[]);
 
 int main()
 {
-	char array[10] = "hello";
+	char array[10] = {'H', 'i'};
 	int num = strlen(array);
 	
 	printf("%d\n", num);
@@ -15,7 +15,7 @@ int main()
 
 int strlen(char s[])
 {
-	int i;
+	int i=0;
 
 	while (s[i] != '\0' )
 	{

@@ -1,0 +1,20 @@
+
+July 22
+함수를 쓰기전에 main 앞에 써주고, 형식은 맞춰서쓰기
+"ㅇㅇㅇㅇ"를 쓰면 컴퓨터는  string으로 인식함. 
+한자한자 입력하길 월하면.  {'ㅇ','ㅇ','ㅇ'} 형식으로 입력하기
+int strlen(char s[]) 
+stelen 함수는 반환형식이 int형이고, 인자를 1개를 갖고 인자로 char s[]배열을 갖는다.
+첫번째 선언한 함수 이후에 사용하는 함수에서는 타입(int, char.etc)를 빼고 사용한다
+mkdir ( make directory) 날짜별로 파일정리 -readme file 빼고 
+input profile photo/ 각자의 폴더 
+명령어 mv ./파일명 ./옮길폴더이름
+상위(이전)폴더로 옮기겠다면 mv ./파일명 ../
+type이 큰 타입(형)으로 변환되서 출력이 됨
+
+2017 년부터 2020년 까지 윤년 확인하여 윤년인지 확인할 수 있도록 출력하기 
+for나 while문 사용하여 만들기
+exercise 2.2 homework
+type convert capital- small
+2.8의  squeeze 함수 글로 쓰고 활용-git update
+

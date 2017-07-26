@@ -1,0 +1,23 @@
+
+July 17
+
+int power (int base, int n)>> 함수형식, return 타입 retur타입이 int형이고 인자(매개변수)를 2개를 갖는다.
+power라는 함수는 리턴타입이 int형이고,
+base와 n 이라는 인자를 갖는다
+return p : 리턴 p는 int type으로반환(출력)
+
+함수를 사용할때는 메인전에 선언해야한다. 
+아니면 함수의 식을 메인전에 전체다 입력해도 된다. 
+void = 값이 없는것 - 어느 자리에 위치함에 따라 어떤 위치의 값이 없는 것을 의미함. 
+[] []의 안의 숫자 만큼의 배열 
+
+i는index값으로 사용된다. 
+
+'\0'이라는 것은 사용자가 입력한 값의 끝을 컴퓨터가 인식하기 위해 nul 값을 넣어준다. 
+int i ; i=0; 은 결국 int i = 0; 것과 같다( 변수선언과 초기화 동시에 하는 것임)
+s는 string
+
+1.10 reading and explain
+1.9 주석 달기.  power, getline, copy
+3page - printf ( hello, world), hello, world,\n )
+

@@ -40,9 +40,10 @@ int main()
 
 	printf("\n");
 
+	// stract함수불러오기 같은 포맷으로 써야함
 	stract(intro, y);
-// for문 종료조건이 거짓일때for문이 종료됨 
 
+	// for문 종료조건이 거짓일때for문이 종료됨 
 	for(i = 0; intro[i] != '\0' ; i++)
 	{
 		printf("%c", intro[i]);
